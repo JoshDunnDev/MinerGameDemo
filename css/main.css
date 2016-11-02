@@ -88,12 +88,29 @@ header {
 
 /* ----- Content ----- */
 
+.wrapper {
+	text-align: center;
+}
+
 #game {
 	margin-top: 15px;
 }
 
 #game canvas {
 	margin: 0 auto;
+}
+
+h1 {
+	font-weight: 600;
+	margin: 10px 0 5px;
+}
+
+strong {
+	font-weight: 600;
+}
+
+.last {
+	margin-bottom: 15px;
 }
 
 
